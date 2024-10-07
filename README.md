@@ -2,7 +2,7 @@
 
 This script allows you to visualize an IFC (Industry Foundation Classes) file by converting its geometry to VTK (Visualization Toolkit) format. It uses the `IfcOpenShell` library to parse IFC geometry and the `VTK` library to render the resulting 3D shapes in an interactive window.
 
-![image](https://github.com/user-attachments/assets/0530c0f3-9726-4cbc-bf65-33049e6d37be)
+![image](https://github.com/user-attachments/assets/fb6078f0-facf-4f09-bcfb-a0ce85213208)
 
 Sample IFC Files: https://www.steptools.com/docs/stpfiles/ifc/
 
